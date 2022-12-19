@@ -1,3 +1,4 @@
+# TOC
 - [Javascript Basics](#javascript-basics)
 - [Data Storage](#data-storage)
 - [Practice Problems 2](#practice-problems-2)
@@ -5,10 +6,7 @@
 - [Practice Problem 3](#practice-problem-3)
 - [Class & Prototypes](#class---prototypes)
 - [Binary and Hexidecimal](#binary-and-hexidecimal)
-
-
 * * *
-
 # Javascript Basics
   * [What are Programs](#what-are-programs)
   * [Intro to Javascript](#intro-to-javascript)
