@@ -10,7 +10,7 @@
 * * *
 
 # Javascript Basics
-  * [What are Programs?](#what-are-programs-)
+  * [What are Programs](#what-are-programs)
   * [Intro to Javascript](#intro-to-javascript)
     + [Number Variable](#number-variable)
       - [Variables](#variables)
@@ -58,7 +58,7 @@
     + [Modulus Scream](#modulus-scream)
       - [Modulus in Loops](#modulus-in-loops)
     + [Top Double](#top-double)
-## What are Programs?
+## What are Programs
 
 - Read line-by-line by a compiler or interpreter upon execution
 - Each line is parsed and broken into tokens
